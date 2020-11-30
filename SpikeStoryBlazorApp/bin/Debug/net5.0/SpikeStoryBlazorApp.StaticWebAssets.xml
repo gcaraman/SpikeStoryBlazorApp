@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\Workspace\Experiments\SpikeStoryBlazorApp\SpikeStoryBlazorApp\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor" Path="C:\Users\grigore.caraman\.nuget\packages\syncfusion.blazor\18.3.0.51\build\..\staticwebassets\" />
+</StaticWebAssets>
